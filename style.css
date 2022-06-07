@@ -22,11 +22,3 @@
 main {
   display: flex;
 }
-
-#name-container {
-  display: flex;
-}
-
-#email-house-container {
-  display: flex;
-}
